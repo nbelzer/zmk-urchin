@@ -15,7 +15,7 @@
 #define EXT 2
 #define FNC 3
 #define SYM2 4
-#define SETTINGS 6
+#define SETTINGS 5
 // -----------------
 
 &sk {
